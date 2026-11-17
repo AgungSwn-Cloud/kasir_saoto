@@ -1,0 +1,17 @@
+{
+  "name": "Kasir Soto & Saoto",
+  "short_name": "Kasir Soto",
+  "description": "Aplikasi kasir Soto & Saoto",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#b03c14",
+  "theme_color": "#b03c14",
+  "lang": "id",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
